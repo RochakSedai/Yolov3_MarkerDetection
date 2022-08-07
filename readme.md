@@ -18,6 +18,6 @@ A system developed in yolov3 to detect Marker Photo , video or in live webcam vi
  3. Install requirements.txt
      >pip install -r requirements.txt 
  4. To detect Video run
-    >test_on_video.py
+    >video_test.py
  5. To detect Image run and give image path
-    >test_on_photo.py
+    >photo_test.py
